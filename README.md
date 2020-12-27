@@ -12,5 +12,6 @@ Un blog increible para el cursi de Git y Github
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Ax
 * Creado por el increible platzi team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegás acá NO TE LO TOME EN SERIO y [**mejor ve a ver el curso**](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "mejor ve a ver el curs").
